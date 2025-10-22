@@ -18,7 +18,7 @@
 |--------------|----------------|
 | [**java-projects**](https://github.com/liarosa/java-projects) | Java mini projects – object-oriented exercises and logic practice |
 | [**js-practice**](https://github.com/liarosa/js-practice) | 8 interactive JavaScript projects (games, UI tools, learning demos) |
-| [**chinesisch-Lernen**](https://github.com/liarosa/chinesisch-Lernen) | A children’s learning portal for Chinese characters and poems |
+| [**frontend-projects**](https://github.com/liarosa/chinesisch-Lernen) | A children’s learning portal for Chinese characters and poems |
 | [**bakery-site**](https://github.com/liarosa/bakery-site) | Simple responsive bakery website built with HTML & CSS |
 | [**Linux-Week1-Lab**](https://github.com/liarosa/Linux-Week1-Lab) | Basic Linux command and scripting exercises |
 
