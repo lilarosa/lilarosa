@@ -16,17 +16,17 @@
 ### 🚀 My Active Repositories
 | 🗂 Repository | 🧠 Description |
 |--------------|----------------|
-| [**java-projects**](https://github.com/iliarosa/java-projects) | Java mini projects – object-oriented exercises and logic practice |
-| [**js-practice**](https://github.com/iliarosa/js-practice) | 8 interactive JavaScript projects (games, UI tools, learning demos) |
-| [**chinesisch-Lernen**](https://github.com/iliarosa/chinesisch-Lernen) | A children’s learning portal for Chinese characters and poems |
-| [**bakery-site**](https://github.com/iliarosa/bakery-site) | Simple responsive bakery website built with HTML & CSS |
-| [**Linux-Week1-Lab**](https://github.com/iliarosa/Linux-Week1-Lab) | Basic Linux command and scripting exercises |
+| [**java-projects**](https://github.com/liarosa/java-projects) | Java mini projects – object-oriented exercises and logic practice |
+| [**js-practice**](https://github.com/liarosa/js-practice) | 8 interactive JavaScript projects (games, UI tools, learning demos) |
+| [**chinesisch-Lernen**](https://github.com/liarosa/chinesisch-Lernen) | A children’s learning portal for Chinese characters and poems |
+| [**bakery-site**](https://github.com/liarosa/bakery-site) | Simple responsive bakery website built with HTML & CSS |
+| [**Linux-Week1-Lab**](https://github.com/liarosa/Linux-Week1-Lab) | Basic Linux command and scripting exercises |
 
 ---
 
 ### 📈 GitHub Stats
-![Tao's GitHub stats](https://github-readme-stats.vercel.app/api?username=iliarosa&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iliarosa&layout=compact&theme=radical)
+![Tao's GitHub stats](https://github-readme-stats.vercel.app/api?username=liarosa&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liarosa&layout=compact&theme=radical)
 
 ---
 
