@@ -21,7 +21,8 @@
 | [**frontend-projects**](https://github.com/lilarosa/chinesisch-Lernen) | A children’s learning portal for Chinese characters and poems |
 | [**bakery-site**](https://github.com/lilarosa/bakery-site) | Simple responsive bakery website built with HTML & CSS |
 | [**Linux-Week1-Lab**](https://github.com/lilarosa/Linux-Week1-Lab) | Basic Linux command and scripting exercises |
-
+| [**frontend-projects**](https://github.com/lilarosa/hungary-survival/tree/main) | An APP for Hungary chinese traveller  |
+| [**Courses from my school**](https://github.com/lilarosa/Study-notes)| Recording from my learing  |
 ---
 
 ### 📈 GitHub Stats
