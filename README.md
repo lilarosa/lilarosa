@@ -23,7 +23,7 @@
 | [**Linux-Week1-Lab**](https://github.com/lilarosa/Linux-Week1-Lab) | Basic Linux command and scripting exercises |
 | [**frontend-projects-Hungary-Surviver**](https://github.com/lilarosa/hungary-survival/tree/main) | An APP for Hungary chinese traveller  |
 | [**Courses from my school**](https://github.com/lilarosa/Study-notes)| Recording from my learing  |
-| [**IT-Learning-Journey** | 🛠️ **(Current)** AD Design, PowerShell Automation & IT Logs |
+| [**IT-Learning-Journey**](https://github.com/lilarosa/Study-notes)| AD Design, PowerShell Automation & IT Logs  |
 ---
 
 ### 📈 GitHub Stats
