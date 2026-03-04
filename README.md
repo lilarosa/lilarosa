@@ -1,52 +1,42 @@
-# Tao Wang | IT Learning Profile
+# Tao Wang | Software Development Learning Portfolio
 
-## DE: Kurzprofil
-Ich bin Umschuelerin zur Fachinformatikerin fuer Anwendungsentwicklung in Deutschland.
-Aktueller Schwerpunkt: Java, Web-Entwicklung, Linux-Administration und praxisnahe IT-Labs.
+> DE zuerst, EN second. Structured for IHK preparation and long-term software engineering growth.
 
-## DE: Lernfokus 2026
-- Java-Grundlagen zu testbaren Projekten ausbauen
-- Frontend-Projekte strukturierter und wartbarer machen
-- Linux/Netzwerk-Labs sauber dokumentieren
-- Ein konsistentes, langfristig pflegbares GitHub-Portfolio aufbauen
+## Ueberblick (DE)
+Ich bin Umschuelerin zur Fachinformatikerin fuer Anwendungsentwicklung in Deutschland.  
+Dieses Profil ist mein zentrales Lern-Dashboard mit klarer Trennung von **Hub**, **Notizen**, **Labs** und **Projekten**.
 
-## DE: Repository-Navigation
-### Learning Hub
-- [IT-Learning-Journey](https://github.com/lilarosa/IT-Learning-Journey)
+## Snapshot
+| Bereich | Fokus | Link |
+|---|---|---|
+| Learning Hub | Roadmap, Wochenziele, Lernfortschritt | [IT-Learning-Journey](https://github.com/lilarosa/IT-Learning-Journey) |
+| IHK AP1 Prep | Aufgaben, Loesungen, Mock Exams | [ihk-ap1-prep](https://github.com/lilarosa/ihk-ap1-prep) |
+| Java Projects | OOP, CLI, Fehlerbehandlung | [java-projects](https://github.com/lilarosa/java-projects) |
+| Backend Training | Kleine testbare Java-Projekte | [backend-mini-projects-java](https://github.com/lilarosa/backend-mini-projects-java) |
+| Algorithm Training | Java DSA fuer AP1/Interviews | [algorithm-training-java](https://github.com/lilarosa/algorithm-training-java) |
+| Linux/DevOps Labs | Linux, Shell, Git, spaeter Docker | [devops-linux-labs](https://github.com/lilarosa/devops-linux-labs) |
 
-### Notes
-- [Study-notes](https://github.com/lilarosa/Study-notes)
+## Lernstruktur
+| Kategorie | Repositories |
+|---|---|
+| Notes | [Study-notes](https://github.com/lilarosa/Study-notes) |
+| Labs | [Linux-Week1-Lab](https://github.com/lilarosa/Linux-Week1-Lab), [DHCP-Apache-Webserver_Week2_Lab](https://github.com/lilarosa/DHCP-Apache-Webserver_Week2_Lab) |
+| Projects | [frontend-projects](https://github.com/lilarosa/frontend-projects), [hungary-survival](https://github.com/lilarosa/hungary-survival), [arduino-practice](https://github.com/lilarosa/arduino-practice) |
 
-### Labs
-- [Linux-Week1-Lab](https://github.com/lilarosa/Linux-Week1-Lab)
-- [DHCP-Apache-Webserver_Week2_Lab](https://github.com/lilarosa/DHCP-Apache-Webserver_Week2_Lab)
+## Aktuelle Ziele (2026)
+- AP1 systematisch vorbereiten (SQL, Java, UML, Testing, Netzwerk)
+- Java von Uebungsniveau zu testbaren Mini-Projekten entwickeln
+- Linux/DevOps Grundlagen in reproduzierbaren Labs festigen
+- Jedes Repository mit klarer README- und Wochenplan-Struktur pflegen
 
-### Projects
-- [java-projects](https://github.com/lilarosa/java-projects)
-- [javaScript-practice](https://github.com/lilarosa/javaScript-practice)
-- [frontend-projects](https://github.com/lilarosa/frontend-projects)
-- [hungary-survival](https://github.com/lilarosa/hungary-survival)
+## Profile (EN)
+I am retraining as a software developer in Germany. This profile is my learning dashboard organized into **hub**, **notes**, **labs**, and **projects**.
 
-## DE: Arbeitsweise
-- README-Struktur: Deutsch zuerst, Englisch danach
-- Klare Commit-Nachrichten und kleine, nachvollziehbare Aenderungen
-- Woechentliche Lern-Updates im Learning-Hub und in Notizen
+## 2026 Focus (EN)
+- Structured IHK AP1 preparation
+- Java progression from exercises to testable mini-projects
+- Reproducible Linux/DevOps labs
+- Consistent repository documentation and weekly plans
 
-## EN: Profile
-I am retraining as a software developer (application development) in Germany.
-My current focus is Java, web development, Linux administration, and hands-on IT labs.
-
-## EN: 2026 Focus
-- Evolve Java basics into testable projects
-- Improve frontend structure and maintainability
-- Document Linux/network labs in a clean way
-- Build a consistent long-term GitHub learning portfolio
-
-## EN: Repository Map
-- Learning hub: [IT-Learning-Journey](https://github.com/lilarosa/IT-Learning-Journey)
-- Notes: [Study-notes](https://github.com/lilarosa/Study-notes)
-- Labs: [Linux-Week1-Lab](https://github.com/lilarosa/Linux-Week1-Lab), [DHCP-Apache-Webserver_Week2_Lab](https://github.com/lilarosa/DHCP-Apache-Webserver_Week2_Lab)
-- Projects: [java-projects](https://github.com/lilarosa/java-projects), [javaScript-practice](https://github.com/lilarosa/javaScript-practice), [frontend-projects](https://github.com/lilarosa/frontend-projects), [hungary-survival](https://github.com/lilarosa/hungary-survival)
-
-## EN: Contact
+## Contact
 - GitHub: [@lilarosa](https://github.com/lilarosa)
