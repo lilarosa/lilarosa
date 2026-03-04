@@ -1,50 +1,52 @@
-# 👋 Hi, I'm Tao  
-🎓 Umschüler zum Fachinformatiker – Anwendungsentwicklung   
-💻 Passionate about learning Java, avaScript, HTML/CSS, Linux, and Networking.  
-🌱 Preparing for HK Abschlussprüfung Teil 1 (2026) 
-🧠 Always learning, coding, and creating.
+# Tao Wang | IT Learning Profile
 
----
+## DE: Kurzprofil
+Ich bin Umschuelerin zur Fachinformatikerin fuer Anwendungsentwicklung in Deutschland.
+Aktueller Schwerpunkt: Java, Web-Entwicklung, Linux-Administration und praxisnahe IT-Labs.
 
-### 🧭 About Me · 关于我 · Über mich
-🇨🇳 我是一名正在德国学习软件开发的 Umschüler，专注于 Java 后端与网页前端结合开发。  
-🇩🇪 Ich bin derzeit Umschüler im Bereich Fachinformatik – Anwendungsentwicklung.  
-🇬🇧 I’m currently in training to become a software developer in Germany.  
+## DE: Lernfokus 2026
+- Java-Grundlagen zu testbaren Projekten ausbauen
+- Frontend-Projekte strukturierter und wartbarer machen
+- Linux/Netzwerk-Labs sauber dokumentieren
+- Ein konsistentes, langfristig pflegbares GitHub-Portfolio aufbauen
 
----
+## DE: Repository-Navigation
+### Learning Hub
+- [IT-Learning-Journey](https://github.com/lilarosa/IT-Learning-Journey)
 
-### 🚀 My Active Repositories
-| 🗂 Repository | 🧠 Description |
-|--------------|----------------|
-| [**java-projects**](https://github.com/lilarosa/java-projects) | Java mini projects – object-oriented exercises and logic practice |
-| [**javaScript-practice**](https://github.com/lilarosa/js-practice) | 8 interactive JavaScript projects (games, UI tools, learning demos) |
-| [**frontend-projects-Chinesisch Lernen Website**](https://github.com/lilarosa/chinesisch-Lernen) | A children’s learning portal for Chinese characters and poems |
-| [**bakery-site**](https://github.com/lilarosa/bakery-site) | Simple responsive bakery website built with HTML & CSS |
-| [**Linux-Week1-Lab**](https://github.com/lilarosa/Linux-Week1-Lab) | Basic Linux command and scripting exercises |
-| [**frontend-projects-Hungary-Surviver**](https://github.com/lilarosa/hungary-survival/tree/main) | An APP for Hungary chinese traveller  |
-| [**Courses from my school**](https://github.com/lilarosa/Study-notes)| Recording from my learing  |
-| [**IT-Learning-Journey**](https://github.com/lilarosa/IT-Learning-Journey)| AD Design, PowerShell Automation & IT Logs  |
----
+### Notes
+- [Study-notes](https://github.com/lilarosa/Study-notes)
 
-### 📈 GitHub Stats
-![Tao's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilarosa&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilarosa&layout=compact&theme=radical)
+### Labs
+- [Linux-Week1-Lab](https://github.com/lilarosa/Linux-Week1-Lab)
+- [DHCP-Apache-Webserver_Week2_Lab](https://github.com/lilarosa/DHCP-Apache-Webserver_Week2_Lab)
 
----
+### Projects
+- [java-projects](https://github.com/lilarosa/java-projects)
+- [javaScript-practice](https://github.com/lilarosa/javaScript-practice)
+- [frontend-projects](https://github.com/lilarosa/frontend-projects)
+- [hungary-survival](https://github.com/lilarosa/hungary-survival)
 
-### 🏷️ Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## DE: Arbeitsweise
+- README-Struktur: Deutsch zuerst, Englisch danach
+- Klare Commit-Nachrichten und kleine, nachvollziehbare Aenderungen
+- Woechentliche Lern-Updates im Learning-Hub und in Notizen
 
----
+## EN: Profile
+I am retraining as a software developer (application development) in Germany.
+My current focus is Java, web development, Linux administration, and hands-on IT labs.
 
-### 💬 Contact / 联系方式 / Kontakt 
-🌍 https://github.com/iliarosa
+## EN: 2026 Focus
+- Evolve Java basics into testable projects
+- Improve frontend structure and maintainability
+- Document Linux/network labs in a clean way
+- Build a consistent long-term GitHub learning portfolio
 
----
+## EN: Repository Map
+- Learning hub: [IT-Learning-Journey](https://github.com/lilarosa/IT-Learning-Journey)
+- Notes: [Study-notes](https://github.com/lilarosa/Study-notes)
+- Labs: [Linux-Week1-Lab](https://github.com/lilarosa/Linux-Week1-Lab), [DHCP-Apache-Webserver_Week2_Lab](https://github.com/lilarosa/DHCP-Apache-Webserver_Week2_Lab)
+- Projects: [java-projects](https://github.com/lilarosa/java-projects), [javaScript-practice](https://github.com/lilarosa/javaScript-practice), [frontend-projects](https://github.com/lilarosa/frontend-projects), [hungary-survival](https://github.com/lilarosa/hungary-survival)
 
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+## EN: Contact
+- GitHub: [@lilarosa](https://github.com/lilarosa)
