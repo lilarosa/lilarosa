@@ -23,6 +23,12 @@ Dieses Profil ist mein zentrales Lern-Dashboard mit klarer Trennung von **Hub**,
 | Linux/DevOps Labs | Linux, Shell, Git, spaeter Docker | [devops-linux-labs](https://github.com/lilarosa/devops-linux-labs) |
 | Frontend Projects | UI/UX, HTML, CSS, JavaScript | [frontend-projects](https://github.com/lilarosa/frontend-projects) |
 
+## Featured Projects (Selbst entwickelt)
+| Projekt | Kurzbeschreibung | Link |
+|---|---|---|
+| Chinesisch Lern Website | Interaktive Lernplattform fuer Kinder mit Schriftzeichen, Pinyin und Spielen | [frontend-projects](https://github.com/lilarosa/frontend-projects) |
+| Hungary Survival | Web-App fuer Expats in Ungarn mit Guides, Tools und PWA | [hungary-survival](https://github.com/lilarosa/hungary-survival) |
+
 ## Diese Woche (Status)
 | Bereich | Ziel | Status |
 |---|---|---|
