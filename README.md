@@ -21,6 +21,7 @@ Dieses Profil ist mein zentrales Lern-Dashboard mit klarer Trennung von **Hub**,
 | Backend Training | Kleine testbare Java-Projekte | [backend-mini-projects-java](https://github.com/lilarosa/backend-mini-projects-java) |
 | Algorithm Training | Java DSA fuer AP1/Interviews | [algorithm-training-java](https://github.com/lilarosa/algorithm-training-java) |
 | Linux/DevOps Labs | Linux, Shell, Git, spaeter Docker | [devops-linux-labs](https://github.com/lilarosa/devops-linux-labs) |
+| Frontend Projects | UI/UX, HTML, CSS, JavaScript | [frontend-projects](https://github.com/lilarosa/frontend-projects) |
 
 ## Diese Woche (Status)
 | Bereich | Ziel | Status |
