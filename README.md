@@ -26,8 +26,9 @@ Dieses Profil ist mein zentrales Lern-Dashboard mit klarer Trennung von **Hub**,
 ## Featured Projects (Selbst entwickelt)
 | Projekt | Kurzbeschreibung | Repo | Demo |
 |---|---|---|---|
-| Chinesisch Lern Website | Interaktive Lernplattform fuer Kinder mit Schriftzeichen, Pinyin und Spielen | [frontend-projects](https://github.com/lilarosa/frontend-projects) | [Live Demo](https://lilarosa.github.io/frontend-projects/) |
-| Hungary Survival | Web-App fuer Expats in Ungarn mit Guides, Tools und PWA | [hungary-survival](https://github.com/lilarosa/hungary-survival) | [Live Demo](https://lilarosa.github.io/hungary-survival/) |
+| Chinesisch Lern Website | Interaktive Lernplattform fuer Kinder mit Schriftzeichen, Pinyin und Spielen | [frontend-projects](https://github.com/lilarosa/frontend-projects) | [Live Demo](https://lilarosa.github.io/frontend-projects/projects/01_chinesisch-lernen/) |
+| Hungary Survival | Web-App fuer Expats in Ungarn mit Guides, Tools und PWA | [frontend-projects](https://github.com/lilarosa/frontend-projects) | [Live Demo](https://lilarosa.github.io/frontend-projects/projects/02_hungary-survival/) |
+| CareU | Pflege- und Erinnerungsapp mit Aufgaben, Uhrzeit, Vorlesen und Notruf | [frontend-projects](https://github.com/lilarosa/frontend-projects) | [Live Demo](https://lilarosa.github.io/frontend-projects/projects/03_careU/) |
 
 ## Diese Woche (Status)
 | Bereich | Ziel | Status |
