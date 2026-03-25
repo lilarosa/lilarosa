@@ -10,12 +10,12 @@
 
 ## Ueberblick (DE)
 Ich bin Umschuelerin zur Fachinformatikerin fuer Anwendungsentwicklung in Deutschland.  
-Dieses Profil ist mein zentrales Lern-Dashboard mit klarer Trennung von **Hub**, **Notizen**, **Labs** und **Projekten**.
+Dieses Profil ist mein zentrales Lern-Dashboard mit klarer Trennung von **Hub**, **Courses (Lernfelder 1-9)**, **Notizen**, **Labs** und **Projekten**.
 
 ## Snapshot
 | Bereich | Fokus | Link |
 |---|---|---|
-| Learning Hub | Roadmap, Wochenziele, Lernfortschritt | [IT-Learning-Journey](https://github.com/lilarosa/IT-Learning-Journey) |
+| Learning Hub | Roadmap, Wochenziele, Lernfortschritt, **Courses (Lernfelder 1-9)** | [IT-Learning-Journey](https://github.com/lilarosa/IT-Learning-Journey) |
 | IHK AP1 Prep | Aufgaben, Loesungen, Mock Exams | [ihk-ap1-prep](https://github.com/lilarosa/ihk-ap1-prep) |
 | Java Projects | OOP, CLI, Fehlerbehandlung | [java-projects](https://github.com/lilarosa/java-projects) |
 | Backend Training | Kleine testbare Java-Projekte | [backend-mini-projects-java](https://github.com/lilarosa/backend-mini-projects-java) |
@@ -41,6 +41,7 @@ Dieses Profil ist mein zentrales Lern-Dashboard mit klarer Trennung von **Hub**,
 ## Lernstruktur
 | Kategorie | Repositories |
 |---|---|
+| Courses | [IT-Learning-Journey](https://github.com/lilarosa/IT-Learning-Journey) |
 | Notes | [Study-notes](https://github.com/lilarosa/Study-notes) |
 | Labs | [Linux-Week1-Lab](https://github.com/lilarosa/Linux-Week1-Lab), [DHCP-Apache-Webserver_Week2_Lab](https://github.com/lilarosa/DHCP-Apache-Webserver_Week2_Lab) |
 | Projects | [frontend-projects](https://github.com/lilarosa/frontend-projects), [hungary-survival](https://github.com/lilarosa/hungary-survival), [arduino-practice](https://github.com/lilarosa/arduino-practice) |
@@ -52,7 +53,7 @@ Dieses Profil ist mein zentrales Lern-Dashboard mit klarer Trennung von **Hub**,
 - Jedes Repository mit klarer README- und Wochenplan-Struktur pflegen
 
 ## Profile (EN)
-I am retraining as a software developer in Germany. This profile is my learning dashboard organized into **hub**, **notes**, **labs**, and **projects**.
+I am retraining as a software developer in Germany. This profile is my learning dashboard organized into **hub**, **courses (Lernfelder 1-9)**, **notes**, **labs**, and **projects**.
 
 ## This Week (Status)
 | Area | Goal | Status |
