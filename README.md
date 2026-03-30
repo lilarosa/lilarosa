@@ -29,6 +29,7 @@ Dieses Profil ist mein zentrales Lern-Dashboard mit klarer Trennung von **Hub**,
 | Chinesisch Lern Website | Interaktive Lernplattform fuer Kinder mit Schriftzeichen, Pinyin und Spielen | [frontend-projects](https://github.com/lilarosa/frontend-projects) | [Live Demo](https://lilarosa.github.io/frontend-projects/projects/01_chinesisch-lernen/) |
 | Hungary Survival | Web-App fuer Expats in Ungarn mit Guides, Tools und PWA | [frontend-projects](https://github.com/lilarosa/frontend-projects) | [Live Demo](https://lilarosa.github.io/frontend-projects/projects/02_hungary-survival/) |
 | CareU (EN) | Pflege- und Erinnerungsapp mit Aufgaben, Uhrzeit, Vorlesen und Notruf | [frontend-projects](https://github.com/lilarosa/frontend-projects) | [Live Demo](https://lilarosa.github.io/frontend-projects/projects/03_careU/en/) |
+| CPS Anzucht-Gewaechshaus (Arduino) | Cyber-Physisches System: Sensoren (Licht/Bodenfeuchte/IR) steuern Aktoren (LED/Pumpe), plus RTC/LCD und Audio-Durchsagen | [Study-notes](https://github.com/lilarosa/Study-notes/tree/main/projects/CPS) | [Docs](https://github.com/lilarosa/Study-notes/blob/main/projects/CPS/docs/cps-graphic-mapping.md) |
 
 ## Diese Woche (Status)
 | Bereich | Ziel | Status |
