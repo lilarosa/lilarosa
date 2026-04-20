@@ -21,6 +21,7 @@ Dieses Profil ist mein zentrales Lern-Dashboard mit klarer Trennung von **Hub**,
 | Backend Training | Kleine testbare Java-Projekte | [backend-mini-projects-java](https://github.com/lilarosa/backend-mini-projects-java) |
 | Algorithm Training | Java DSA fuer AP1/Interviews | [algorithm-training-java](https://github.com/lilarosa/algorithm-training-java) |
 | Linux/DevOps Labs | Linux, Shell, Git, spaeter Docker | [devops-linux-labs](https://github.com/lilarosa/devops-linux-labs) |
+| Arduino Projects | CPS, Sensoren, Aktoren, Breadboard-Uebungen | [Arduino-Projects](https://github.com/lilarosa/Arduino-Projects) |
 | Frontend Projects | 01 Chinesisch, 02 Hungary, 03 CareU, 04 AP1 App | [frontend-projects](https://github.com/lilarosa/frontend-projects) |
 
 ## Featured Projects (Selbst entwickelt)
@@ -30,6 +31,7 @@ Dieses Profil ist mein zentrales Lern-Dashboard mit klarer Trennung von **Hub**,
 | Hungary Survival | Web-App fuer Expats in Ungarn mit Guides, Tools und PWA | [frontend-projects](https://github.com/lilarosa/frontend-projects) | [Live Demo](https://lilarosa.github.io/frontend-projects/projects/02_hungary-survival/) |
 | CareU (EN) | Pflege- und Erinnerungsapp mit Aufgaben, Uhrzeit, Vorlesen und Notruf | [frontend-projects](https://github.com/lilarosa/frontend-projects) | [Live Demo](https://lilarosa.github.io/frontend-projects/projects/03_careU/en/) |
 | CPS Anzucht-Gewaechshaus (Arduino) | Cyber-Physisches System: Sensoren (Licht/Bodenfeuchte/IR) steuern Aktoren (LED/Pumpe), plus RTC/LCD und Audio-Durchsagen | [Study-notes](https://github.com/lilarosa/Study-notes/tree/main/projects/CPS) | [Docs](https://github.com/lilarosa/Study-notes/blob/main/projects/CPS/docs/cps-graphic-mapping.md) |
+| Temperature Fan Control | Arduino CPS Mini-Projekt mit NTC, LED und Luefter inklusive Hysterese-Regelung | [Arduino-Projects](https://github.com/lilarosa/Arduino-Projects) | [Sketch](https://github.com/lilarosa/Arduino-Projects/tree/main/sketches/05_temperature_fan_control) |
 
 ## Diese Woche (Status)
 | Bereich | Ziel | Status |
@@ -45,7 +47,7 @@ Dieses Profil ist mein zentrales Lern-Dashboard mit klarer Trennung von **Hub**,
 | Courses | [IT-Learning-Journey](https://github.com/lilarosa/IT-Learning-Journey) |
 | Notes | [Study-notes](https://github.com/lilarosa/Study-notes) |
 | Labs | [Linux-Week1-Lab](https://github.com/lilarosa/Linux-Week1-Lab), [DHCP-Apache-Webserver_Week2_Lab](https://github.com/lilarosa/DHCP-Apache-Webserver_Week2_Lab) |
-| Projects | [frontend-projects](https://github.com/lilarosa/frontend-projects), [hungary-survival](https://github.com/lilarosa/hungary-survival), [arduino-practice](https://github.com/lilarosa/arduino-practice) |
+| Projects | [frontend-projects](https://github.com/lilarosa/frontend-projects), [hungary-survival](https://github.com/lilarosa/hungary-survival), [Arduino-Projects](https://github.com/lilarosa/Arduino-Projects) |
 
 ## Aktuelle Ziele (2026)
 - AP1 systematisch vorbereiten (SQL, Java, UML, Testing, Netzwerk)
