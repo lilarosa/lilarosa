@@ -39,7 +39,7 @@ Mein Fokus liegt auf praktischen, erklaerbaren Projekten: nicht nur UI-Demos, so
 | CareU | Elder-care companion prototype with reminders, daily routines, call shortcuts, reading mode and a memory game | HTML, CSS, JavaScript, PWA, Service Worker | [Demo](https://lilarosa.github.io/frontend-projects/projects/03_careU/) / [Repo](https://github.com/lilarosa/frontend-projects) |
 | AP1 Study App | Exam preparation PWA for Fachinformatiker AP1 with modules, weekly planning, quizzes and checklists | HTML, CSS, JavaScript, PWA | [Demo](https://lilarosa.github.io/frontend-projects/projects/04_ap1-study-app/) / [Repo](https://github.com/lilarosa/frontend-projects) |
 | CPS Greenhouse | Cyber-physical Arduino greenhouse: sensors control actuators and display environmental feedback | Arduino/C++, sensors, pump, LED, RTC/LCD | [Docs](https://github.com/lilarosa/Study-notes/blob/main/projects/CPS/docs/cps-graphic-mapping.md) |
-| Temperature Fan Control | Arduino mini CPS project with NTC temperature sensing, LED feedback and fan control with hysteresis | Arduino/C++, NTC, fan, LED | [Sketch](https://github.com/lilarosa/Arduino-Projects/tree/main/sketches/05_temperature_fan_control) |
+
 
 ## Project Notes for Interviews
 
