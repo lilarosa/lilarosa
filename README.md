@@ -21,6 +21,7 @@ Mein Fokus liegt auf praktischen, erklaerbaren Projekten: nicht nur UI-Demos, so
 | Bereich | Fokus | Link |
 |---|---|---|
 | Learning Hub | Roadmap, Wochenziele, Lernfortschritt, Courses Lernfelder 1-9 | [IT-Learning-Journey](https://github.com/lilarosa/IT-Learning-Journey) |
+| Daily Learning Log | Tagesnotizen, Wochenreviews, Weak Points und Wiederholungsplan | [daily-learning-log](https://github.com/lilarosa/daily-learning-log) |
 | IHK AP1 Prep | Aufgaben, Loesungen, Mock Exams, Wiederholungsplan | [ihk-ap1-prep](https://github.com/lilarosa/ihk-ap1-prep) |
 | Java Projects | OOP, CLI, Fehlerbehandlung, kleine Anwendungen | [java-projects](https://github.com/lilarosa/java-projects) |
 | Backend Training | Testbare Java-Projekte und API-Grundlagen | [backend-mini-projects-java](https://github.com/lilarosa/backend-mini-projects-java) |
@@ -194,7 +195,7 @@ classDiagram
 | Kategorie | Repositories |
 |---|---|
 | Courses | [IT-Learning-Journey](https://github.com/lilarosa/IT-Learning-Journey) |
-| Notes | [Study-notes](https://github.com/lilarosa/Study-notes) |
+| Notes | [daily-learning-log](https://github.com/lilarosa/daily-learning-log), [Study-notes](https://github.com/lilarosa/Study-notes) |
 | Labs | [Linux-Week1-Lab](https://github.com/lilarosa/Linux-Week1-Lab), [DHCP-Apache-Webserver_Week2_Lab](https://github.com/lilarosa/DHCP-Apache-Webserver_Week2_Lab) |
 | Projects | [frontend-projects](https://github.com/lilarosa/frontend-projects), [smartoutfit](https://github.com/lilarosa/smartoutfit), [Arduino-Projects](https://github.com/lilarosa/Arduino-Projects) |
 
