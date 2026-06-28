@@ -42,7 +42,7 @@ Mein Fokus liegt auf praktischen, erklaerbaren Projekten: nicht nur UI-Demos, so
 | CPS Greenhouse | Cyber-physical Arduino greenhouse: sensors control actuators and display environmental feedback | Arduino/C++, sensors, pump, LED, RTC/LCD | [Docs](https://github.com/lilarosa/Study-notes/blob/main/projects/CPS/docs/cps-graphic-mapping.md) |
 
 
-## Project Notes for Interviews
+## Project Notes
 
 ### 1. Smart Outfit - Private Wardrobe Intelligence
 
