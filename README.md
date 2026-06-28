@@ -50,8 +50,6 @@ Mein Fokus liegt auf praktischen, erklaerbaren Projekten: nicht nur UI-Demos, so
 
 **Solution:** Smart Outfit is designed as a private-first wardrobe assistant. Users can import clothing items, manage detailed item profiles, get outfit recommendations based on weather and scenario, save favorite outfits, create editable travel packing lists, track outfit usage, and optionally prepare anonymized/authorized data for future retail partner integrations.
 
-**What I can explain in an interview:**
-
 - Product thinking: wardrobe management, outfit recommendations, packing, usage tracking, duplicate-shopping prevention and wardrobe gap analysis.
 - Data modeling: clothing item metadata, outfit plans, calendar records, favorites, weather context and consent-based partner access.
 - Backend thinking: Spring Boot controllers, persistence layer, local-first/privacy-first design direction and future API boundaries.
